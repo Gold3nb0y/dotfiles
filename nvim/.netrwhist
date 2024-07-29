@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/goldenboy/.config/nvim/lua/goldenboy'
+let g:netrw_dirhist_5='/home/goldenboy/.config/nvim/lua'
+let g:netrw_dirhist_4='/home/goldenboy/.config/nvim'
+let g:netrw_dirhist_3='/home/goldenboy/.config/nvim/lua'
+let g:netrw_dirhist_2='/home/goldenboy/.config/nvim/lua/goldenboy'
+let g:netrw_dirhist_1='/home/goldenboy/HTB/Challenges/OSINT/we_have_a_leak/mock_ssh_login/username/password'
